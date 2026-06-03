@@ -26,7 +26,7 @@
 
 ## 📌 Proyectos destacados
 
-### 🔹 Java Fundamentos (Semana 1 & 2)
+### 🔹 Java Fundamentos (Semana )
 Repositorio donde documento mi aprendizaje de Java desde cero hasta nivel avanzado.  
 > 🛠️ Tecnologías: Java + IntelliJ IDEA
 
