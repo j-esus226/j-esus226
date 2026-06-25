@@ -12,7 +12,7 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-Backend
+Backend:
 
 Java,
 Spring Boot,
@@ -21,19 +21,19 @@ Hibernate,
 REST APIs,
 JWT,
 
-Frontend
+Frontend:
 
 React, 
  JavaScript,
  HTML5,
 CSS3
 
-Bases de datos
+Bases de datos:
 
  MySQL,
 SQL
 
-Herramientas
+Herramientas:
 
 Git,
  GitHub,
