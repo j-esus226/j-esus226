@@ -1,47 +1,55 @@
-# 👋 ¡Hola! Soy Jesús Daniel
+👋 ¡Hola! Soy Jesús Daniel Martínez Anaya
 
-💡 Apasionado por la educación digital y el desarrollo de software.  
-🎓 Estudiante de **Ingeniería de Sistemas** en la Corporación Universitaria Adventista de Colombia (UNAC).  
-🚀 Actualmente enfocado en **Java** y aprendiendo **ciencia de datos** con Python.  
-🔍 Interesado en proyectos de backend y análisis de datos, con visión hacia el futuro tecnológico.
+💻 Estudiante de Ingeniería de Sistemas con enfoque en desarrollo backend.
+
+🚀 Desarrollo aplicaciones utilizando Java, Spring Boot, MySQL y APIs REST, aplicando arquitectura por capas, reglas de negocio y buenas prácticas de desarrollo.
+
+🌐 También cuento con experiencia en proyectos Full Stack utilizando React, Node.js y Express, además de integración de servicios y autenticación con JWT.
+
+📚 Actualmente continúo fortaleciendo mis conocimientos en ingeniería de software, desarrollo backend y construcción de aplicaciones mantenibles y escalables.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="45" height="45"/>
-</p>
+Backend
+
+Java,
+Spring Boot,
+Spring Data JPA,
+Hibernate,
+REST APIs,
+JWT,
+
+Frontend
+
+React, 
+ JavaScript,
+ HTML5,
+CSS3
+
+Bases de datos
+
+ MySQL,
+SQL
+
+Herramientas
+
+Git,
+ GitHub,
+ Postman,
+ Maven,
+ IntelliJ IDEA,
+VS Code
 
 ---
+## 🎯 Objetivo Profesional
 
-## 📌 Proyectos destacados
+Busco una oportunidad de práctica profesional en desarrollo de software donde pueda aplicar mis conocimientos en Java, Spring Boot, APIs REST y bases de datos, participando en la construcción de soluciones de calidad mientras continúo fortaleciendo mis habilidades como desarrollador backend.
 
-### 🔹 Java Fundamentos (Semana )
-Repositorio donde documento mi aprendizaje de Java desde cero hasta nivel avanzado.  
-> 🛠️ Tecnologías: Java + IntelliJ IDEA
+## 📂 Portafolio
 
-### 🔹 EduLibre
-Plataforma web para apoyar a personas que no terminaron el bachillerato.  
-> 🛠️ Tecnologías: React + MySQL
-
----
-
-## 🏆 Logros / En progreso
-
-✅ Construyendo mi camino en tecnología con enfoque en **Java** y **ciencia de datos**.  
-📈 Aprendiendo con disciplina, proyecto por proyecto.  
-
----
+Los repositorios destacados que encontrarás a continuación representan algunos de los proyectos más importantes que he desarrollado durante mi formación, enfocados en desarrollo backend, aplicaciones Full Stack, APIs REST y bases de datos relacionales.
 
 ## 📬 Contacto
 
